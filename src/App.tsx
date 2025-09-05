@@ -1,7 +1,6 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import logo from "./assets/logo.jpg";
-import girl from "./assets/girl.jpg";
 import "./App.css";
 
 function App() {
